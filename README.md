@@ -5,8 +5,6 @@ It also uses tailwindcss.
 
 ## Install dependencies
 
-If you're seeing this, you've probably already done this step. Congrats!
-
 ```bash
 npm install 
 ```
